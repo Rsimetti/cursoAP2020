@@ -1,4 +1,7 @@
 # Curso Aprendizado de Máquina na Prática - 2020
+Aprendizado de Máquina (Machine Learning) é uma tecnologia onde os computadores tem a capacidade de aprender por meio associações de diferentes dados, os quais podem ser imagens, números e tudo que essa tecnologia possa identificar. Como resultado esses algoritmos são capazes de aprender com seus erros e fazer previsões sobre novos dados.
+Espera-se que no final do curso o aluno esteja preparado para trabalhar com o desenvolvimento de sistemas inteligentes para variados problemas do mundo atual. A seguir são apresentadas informações importantes sobre o curso.
+
 
 ## SEMANA 1 - O que é Aprendizagem de Máquina?
 Aprendizado de Máquina (Machine Learning) é uma tecnologia onde os computadores tem a capacidade de aprender por meio associações de diferentes dados, os quais podem ser imagens, números e tudo que essa tecnologia possa identificar. Como resultado esses algoritmos são capazes de aprender com seus erros e fazer previsões sobre novos dados.
