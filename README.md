@@ -48,10 +48,10 @@ Deep Learning é um ramo de aprendizado de máquina baseado em um conjunto de al
 - Transferindo o aprendizado
 
 ## Andamento do Curso 
--[X] Semana 01
--[X] Semana 02
--[X] Semana 03
--[X] Semana 04
--[ ] Semana 05
--[ ] Semana 06
+- [X] Semana 01
+- [X] Semana 02
+- [X] Semana 03
+- [X] Semana 04
+- [ ] Semana 05
+- [ ] Semana 06
  
