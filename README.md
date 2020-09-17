@@ -1,4 +1,4 @@
-# Curso Aprendizado de Máquina na Prática - 2020
+# Curso Aprendizado de Máquina na Prática - UFAL - 2020
 Aprendizado de Máquina (Machine Learning) é uma tecnologia onde os computadores tem a capacidade de aprender por meio associações de diferentes dados, os quais podem ser imagens, números e tudo que essa tecnologia possa identificar. Como resultado esses algoritmos são capazes de aprender com seus erros e fazer previsões sobre novos dados.
 Espera-se que no final do curso o aluno esteja preparado para trabalhar com o desenvolvimento de sistemas inteligentes para variados problemas do mundo atual. A seguir são apresentadas informações importantes sobre o curso.
 
@@ -18,14 +18,15 @@ O supervisionamento é feito quando a partir de um conjunto de dados rotulados p
 - Árvores de Decisão (Ganho de informação; Random forest)
 - Treino e teste, medidas de desempenho para classificação, Viés e variância, Validação cruzada
 
-## SEMANA 3 - Redes Neurais Artificiais
+## SEMANA 3 - Redes Neurais Artificiais 
 Redes Neurais Artificiais são técnicas computacionais que apresentam um modelo matemático inspirado na estrutura neural de organismos inteligentes e que adquirem conhecimento através da experiência. Uma grande rede neural artificial pode ter centenas ou milhares de unidades de processamento.
 - Funções de ativação
 - Backpropagation
 - Inicialização de pesos
 - Otimização de parâmetros: Grid-search, Random-search
 
-## SEMANA 4 - Regressão Linear e com Redes Neurais
+## SEMANA 4 - Regressão Linear e com Redes Neurais 
+*As semanas 4 e 5 foram invertidas* 
 Os modelos de regressão buscam encontrar como uma variável se comporta na medida em que outra variável sofre oscilações. Um exemplo da aplicação de regressão é de análises temporais, que inlclui aplicações em campos como finanças e meteorologia, por exemplo.
 - Medidas de desempenho para regressão
 - Testes Estatísticos
@@ -37,8 +38,6 @@ Nesse tipo de aprendizagem o conjunto de dados utilizado não possui nenhum tipo
 - Fuzzy C-means
 - Medidas de avaliação
 
- 
-
 ## SEMANA 6 - Deep Learning
 Deep Learning é um ramo de aprendizado de máquina baseado em um conjunto de algoritmos que tentam modelar abstrações de alto nível de dados usando um grafo profundo com várias camadas de processamento, compostas de várias transformações lineares e não lineares.
 - Redes Neurais Convolucionais
@@ -47,3 +46,12 @@ Deep Learning é um ramo de aprendizado de máquina baseado em um conjunto de al
 - Funções de perda
 - Regularização
 - Transferindo o aprendizado
+
+## Andamento do Curso 
+-[X] Semana 01
+-[X] Semana 02
+-[X] Semana 03
+-[X] Semana 04
+-[ ] Semana 05
+-[ ] Semana 06
+ 
