@@ -11,12 +11,14 @@ Aprendizado de Máquina (Machine Learning) é uma tecnologia onde os computadore
 - Aprendizagem não supervisionada (Agrupamento; Extração de regras de associação)
 - Dados: aquisição e organização, tratamento, pré-processamento, desbalanceamento e resize dos Dados
 - Biblotecas python: numpy, pandas, sklearn
+[Atividade](https://github.com/Rsimetti/cursoAP2020/blob/master/AD_Curso.ipynb)
 
 ## SEMANA 2 - Aprendizagem Supervisionada
 O supervisionamento é feito quando a partir de um conjunto de dados rotulados previamente definido deseja-se encontrar uma função que seja capaz de predizer rótulos desconhecidos. Nesse tipo de aprendizagem pode-se estimar números reais ou valores dentro de um conjunto finito.
 - Aprendizado supervisionado
 - Árvores de Decisão (Ganho de informação; Random forest)
 - Treino e teste, medidas de desempenho para classificação, Viés e variância, Validação cruzada
+[Atividade](https://github.com/Rsimetti/cursoAP2020/blob/master/Arvore_de_decisao_e_floresta_aleatoria.ipynb)
 
 ## SEMANA 3 - Redes Neurais Artificiais 
 Redes Neurais Artificiais são técnicas computacionais que apresentam um modelo matemático inspirado na estrutura neural de organismos inteligentes e que adquirem conhecimento através da experiência. Uma grande rede neural artificial pode ter centenas ou milhares de unidades de processamento.
@@ -24,12 +26,14 @@ Redes Neurais Artificiais são técnicas computacionais que apresentam um modelo
 - Backpropagation
 - Inicialização de pesos
 - Otimização de parâmetros: Grid-search, Random-search
+[Atividade](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana03_RNA_x_RF.ipynb)
 
 ## SEMANA 4 - Regressão Linear e com Redes Neurais 
 *As semanas 4 e 5 foram invertidas* 
 Os modelos de regressão buscam encontrar como uma variável se comporta na medida em que outra variável sofre oscilações. Um exemplo da aplicação de regressão é de análises temporais, que inlclui aplicações em campos como finanças e meteorologia, por exemplo.
 - Medidas de desempenho para regressão
 - Testes Estatísticos
+[Atividade](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana4_Analise_de_Agrupamento.ipynb)
 
 ## SEMANA 5 - Aprendizagem Não Supervisionada
 Nesse tipo de aprendizagem o conjunto de dados utilizado não possui nenhum tipo de rótulo. O objetivo desse tipo de aprendizagem é descobrir similaridades entre os objetos analisados a fim de detectar similaridades e anomalias.
@@ -37,6 +41,7 @@ Nesse tipo de aprendizagem o conjunto de dados utilizado não possui nenhum tipo
 - K-means
 - Fuzzy C-means
 - Medidas de avaliação
+[Atividade](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana05_Regressao_NIR.ipynb)
 
 ## SEMANA 6 - Deep Learning
 Deep Learning é um ramo de aprendizado de máquina baseado em um conjunto de algoritmos que tentam modelar abstrações de alto nível de dados usando um grafo profundo com várias camadas de processamento, compostas de várias transformações lineares e não lineares.
@@ -46,12 +51,13 @@ Deep Learning é um ramo de aprendizado de máquina baseado em um conjunto de al
 - Funções de perda
 - Regularização
 - Transferindo o aprendizado
+[Atividade](https://github.com/Rsimetti/cursoAP2020/blob/master/Semana06_CNN.ipynb)
 
 ## Andamento do Curso 
 - [X] Semana 01
 - [X] Semana 02
 - [X] Semana 03
 - [X] Semana 04
-- [ ] Semana 05
-- [ ] Semana 06
+- [X] Semana 05
+- [X] Semana 06
  
